@@ -1,2 +1,2 @@
 ## Disclaimer
-All automation templates in this repository were found online and are uploaded here solely for easy access and sharing. None of the templates are created or owned by the repository author. If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability. All rights to the original templates belong to their respective creators.
+All automation templates in this repository were found online and are uploaded here solely for easy access and sharing. 
